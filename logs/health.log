@@ -2,3 +2,32 @@ Report Generated at Mon Feb 16 08:59:44 UTC 2026
 Report Generated at Mon Feb 16 09:00:26 UTC 2026
 Report Generated at Mon Feb 16 09:00:57 UTC 2026
 Report Generated at Mon Feb 16 09:01:24 UTC 2026
+===============================================
+SYSTEM HEALTH REPORT
+===============================================
+Date: Mon Feb 16 09:44:30 UTC 2026
+Hostname: CSPLBLRLP401
+
+Uptime:
+ 09:44:30 up  2:10,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       507Mi       7.0Gi       3.7Mi       264Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Disk Usage (Root Only):
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.9G  954G   1% /
+
+Top 5 Processes by CPU:
+    PID    PPID CMD                         %MEM %CPU
+     91       1 /usr/lib/systemd/systemd-ud  0.0  0.0
+      1       0 /sbin/init                   0.1  0.0
+     42       1 /usr/lib/systemd/systemd-jo  0.2  0.0
+    170       1 /usr/libexec/wsl-pro-servic  0.1  0.0
+      2       1 /init                        0.0  0.0
+
+Report Generated Successfully
+
+Report Generated at Mon Feb 16 09:44:30 UTC 2026
